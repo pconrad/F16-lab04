@@ -45,7 +45,13 @@ What you should see will look something like this:
 
 ![Sample output from ant -DstudentName=pconrad gradePV](ant-DstudentName_pconrad_gradePV.png)
 
-This is sample output from the program []()
+This is sample output from the program [src/edu/ucsb/cs56/drawings/pconrad/simple/PictureViewer.java](https://github.com/UCSB-CS56-F16/F16-lab04/blob/master/src/edu/ucsb/cs56/drawings/pconrad/simple/PictureViewer.java).
+
+It shows code that was drawn by [F16-lab04/src/edu/ucsb/cs56/drawings/pconrad/simple/PictureComponent.java](https://github.com/UCSB-CS56-F16/F16-lab04/blob/master/src/edu/ucsb/cs56/drawings/pconrad/simple/PictureComponent.java), which draws a simple House, and an incomplete snowman.
+
+One of your "warmup exercises" is to try to complete your own version of this snowman (or, if you prefer, "person of snow".)
+
+
 
 
 
